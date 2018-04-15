@@ -1,7 +1,7 @@
 # DevOps-Class
 Repo used to understand how Git works
 
-Dev Branch with no names and numbers
+Dev Branch with names and numbers
 1
 2
 3
